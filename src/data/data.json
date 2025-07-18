@@ -1,102 +1,103 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "S Imam",
+    "paragraph": "From business cards to banners — we deliver top-tier printing services with precision, speed, and style"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
-  },
+  "paragraph": "At S Imam Prints, we are passionate about bringing your ideas to life through high-quality printing and branding solutions. With years of experience in the industry, we specialize in delivering exceptional results across apparel, promotional materials, corporate branding, and more. Our team is committed to precision, creativity, and customer satisfaction—making sure every print reflects excellence.",
+  "Why": [
+    "Premium quality printing with attention to detail",
+    "Custom branding solutions tailored to your needs",
+    "State-of-the-art equipment and techniques",
+    "Fast turnaround and reliable delivery"
+  ],
+  "Why2": [
+    "Experienced professionals in the print industry",
+    "Affordable pricing without compromising quality",
+    "Wide range of printing services for all business sizes",
+    "Strong focus on customer satisfaction and support"
+  ]
+},
+
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Screen Printing",
+      "largeImage": "img/portfolio/screen-printing.jpg",
+      "smallImage": "img/portfolio/screen-printing.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Sublimation Printing",
+      "largeImage": "img/portfolio/sabilmation.jpg",
+      "smallImage": "img/portfolio/sabilmation.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Jersey Printing",
+      "largeImage": "img/portfolio/jercy-no.jpg",
+      "smallImage": "img/portfolio/jercy-no.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Business Cards",
+      "largeImage": "img/portfolio/business-cards.jpg",
+      "smallImage": "img/portfolio/business-cards.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Magic cup Mockup printing",
+      "largeImage": "img/portfolio/Cup-mockup.jpg",
+      "smallImage": "img/portfolio/Cup-mockup.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Banner Designs",
+      "largeImage": "img/portfolio/Banner-Design.jpg",
+      "smallImage": "img/portfolio/Banner-Design.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Memo Hard Cover design",
+      "largeImage": "img/portfolio/Hard-cover.jpg",
+      "smallImage": "img/portfolio/Hard-cover.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Dtf printing",
+      "largeImage": "img/portfolio/DTF.jpg",
+      "smallImage": "img/portfolio/DTF.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Business Flyer Design",
+      "largeImage": "img/portfolio/flyer.jpg",
+      "smallImage": "img/portfolio/flyer.jpg"
     }
   ],
   "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
+  {
+    "icon": "fa fa-paint-brush",
+    "name": "Custom T-Shirt Printing",
+    "text": "We specialize in high-quality t-shirt printing for individuals, businesses, events, and organizations—using durable materials and vibrant inks that last."
+  },
+  {
+    "icon": "fa fa-bullhorn",
+    "name": "Brand Promotion Items",
+    "text": "From branded pens to mugs, caps, and tote bags, we offer a wide range of promotional items to help boost your brand visibility."
+  },
+  {
+    "icon": "fa fa-print",
+    "name": "Digital & Offset Printing",
+    "text": "Professional flyers, brochures, business cards, and posters designed and printed to elevate your brand image and marketing campaigns."
+  },
+  {
+    "icon": "fa fa-tags",
+    "name": "Label & Sticker Printing",
+    "text": "Custom sticker and label printing for packaging, branding, and personal use—perfectly cut and printed with precision."
+  },
+  {
+    "icon": "fa fa-building",
+    "name": "Corporate Branding",
+    "text": "We help businesses create a strong brand identity through branded uniforms, office supplies, banners, and signage."
+  },
+  {
+    "icon": "fa fa-gift",
+    "name": "Event Souvenirs",
+    "text": "Personalized souvenirs for weddings, birthdays, corporate events, and special occasions—beautifully packaged to leave a lasting impression."
+  }
+],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
@@ -159,26 +160,26 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
-    {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    }
-  ]
+ "Features": [
+  {
+    "icon": "fa fa-comments-o",
+    "title": "Fast Customer Support",
+    "text": "We respond quickly to inquiries and offer expert advice to help you choose the best printing solutions for your needs."
+  },
+  {
+    "icon": "fa fa-bullhorn",
+    "title": "Creative Branding Ideas",
+    "text": "Our team brings your brand to life with unique designs and creative concepts that stand out in any crowd."
+  },
+  {
+    "icon": "fa fa-group",
+    "title": "Team Collaboration",
+    "text": "We work closely with clients, ensuring that your vision is fully understood and brought to reality with precision."
+  },
+  {
+    "icon": "fa fa-magic",
+    "title": "Quality Prints with Precision",
+    "text": "Using top-grade materials and advanced printing techniques, we deliver clean, crisp, and durable prints every time."
+  }
+]
 }
