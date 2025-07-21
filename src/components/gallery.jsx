@@ -13,7 +13,7 @@ export const Gallery = (props) => {
             dapibus leonec.
           </p>
         </div>
-        <div className="row" style={{ overflow: "hidden", padding: "0 15px" }}>
+        <div className="row" style={{ overflow: "hidden", padding: "0" }}>
           <div className="portfolio-items">
             {props.data
               ? props.data.map((d, i) => (
