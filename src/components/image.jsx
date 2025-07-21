@@ -11,7 +11,7 @@ export const Image = ({ title, largeImage, smallImage, style}) => {
           </div>
           <img src={smallImage} className="img-responsive" alt={title} 
             style={{
-          width: "100%",        // fill container width
+          width: "100vw",        // fill container width
           height: "350px",      // set fixed height
           objectFit: "cover",   // crop & center nicely
           borderRadius: "10px",
